@@ -1,4 +1,4 @@
-# osu2config
+# osu2configs
 Osu 2 configs shortcuts
 This is a simple batch script that allows you to have 2 configs in Osu!
 
