@@ -12,11 +12,11 @@ This is a simple batch script that allows you to have 2 configs in Osu!
 
 1. Download the Config.bat in the releases tab.
 
-2.Move it to your Osu! folder.
+2. Move it to your Osu! folder.
 
-3.Run the script.
+3. Run the script.
 
 
 Disclaimer: 
 I'm not a programmer and i don't have much experience with coding.
-if you have any improovements you would like,feel free to do so.
+if you have any improovements you would like to make,feel free to do so.
