@@ -35,4 +35,4 @@ goto:eof
 
 :start
 start Osu!.exe
-goto:eof
+
